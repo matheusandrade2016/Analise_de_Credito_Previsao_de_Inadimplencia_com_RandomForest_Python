@@ -15,8 +15,8 @@ Coleta de Dados:** O conjunto de dados, composto por 2000 registros.
 
 * **Modelagem:**
 
-    * Um modelo de árvore de decisão (RandomForestClassifier) foi treinado utilizando os dados pré-processados.
-
+    * Um modelo de árvore de decisão (RandomForestClassifier) foi treinado utilizando os dados pré-processados., ultilizando 50 arvores para nosos modelo e nosso critetio de entropia para uma melhor versão de nosso floresta
+      
 * **Avaliação:**
     
     * A acurácia do modelo foi de 98%.
