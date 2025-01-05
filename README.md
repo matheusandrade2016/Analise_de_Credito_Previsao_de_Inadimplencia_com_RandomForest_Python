@@ -22,6 +22,9 @@ Coleta de Dados:** O conjunto de dados, composto por 2000 registros.
     * A acurácia do modelo foi de 98%.
     * A matriz de confusão (Figura 1) mostra que o modelo teve um bom desempenho na classificação dos clientes adimplentes, mas apresentou algumas dificuldades em classificar os inadimplentes.
 
+ ![image](https://github.com/user-attachments/assets/3e672043-478b-4e8c-9977-5a97ad45744d)
+
+
 **Resultados:**
 
 As variáveis mais importantes para a classificação foram a renda e o histórico de crédito. Isso indica que clientes com renda mais baixa e histórico de crédito negativo têm maior probabilidade de inadimplência.
